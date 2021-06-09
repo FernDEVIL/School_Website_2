@@ -1,0 +1,40 @@
+html {
+    scroll-behavior: smooth;
+}
+
+#marqueeStyle {
+    background-color: red;
+}
+
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+
+body {
+    text-align: center;
+}
+
+.achievement_head span {
+    margin-right: 1300;
+}
+
+.achievement_head {
+    width: 1500;
+}
+
+.achievement_head2 {
+    width: 1500;
+}
+
+.achievement_head2 span {
+    margin-right: 1382;
+}
+.achievement_head3 {
+    width: 1500;
+}
+
+.achievement_head3 span {
+    margin-right: 1265;
+}
